@@ -1,0 +1,28 @@
+h1 {color: #6e0fb9;
+}
+h2 {color: #6e0fb9;
+}
+h3 {color: #6e0fb9;
+}
+h4 {
+	color: #616161;
+}
+h5 {
+	color: #616161;
+}
+
+
+div {
+	width: 600px;
+	margin: 0px auto;
+}
+
+
+main p {
+	color: black;
+}
+
+
+body {
+	background-color: #f1f1f1
+}
